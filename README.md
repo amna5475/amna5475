@@ -1,6 +1,10 @@
 # Hi, I'm Amna Afzal 👋
 
-Senior Backend Developer with 4+ years building production-grade systems.
+ Backend Developer with 4+ years building production-grade systems.
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amna_Afzal-blue)](https://linkedin.com/in/amna-afzal-u)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://amna-afzal-backend-wfpg4hw.gamma.site/)
+[![Email](https://img.shields.io/badge/Email-amnac1688@gmail.com-red)](mailto:amnac1688@gmail.com)
 
 ## 🛠️ What I work with
 
@@ -25,8 +29,6 @@ Senior Backend Developer with 4+ years building production-grade systems.
 | [E-commerce API](#) | NestJS · MongoDB · Redis · Docker | Full product/order/payment system |
 | [Finance Tracker](#) | Laravel · MySQL · REST API | Income/expense tracking with reports |
 
-## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amna_Afzal-blue)](https://linkedin.com/in/amna-afzal-u)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://amna-afzal-backend-wfpg4hw.gamma.site/)
-[![Email](https://img.shields.io/badge/Email-amnac1688@gmail.com-red)](mailto:amnac1688@gmail.com)
+
+
