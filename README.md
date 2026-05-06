@@ -3,7 +3,7 @@
  Backend Developer with 4+ years building production-grade systems.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amna_Afzal-blue)](https://linkedin.com/in/amna-afzal-u)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://amna-afzal-backend-wfpg4hw.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://amna-afzal-dev-wy1dchy.gamma.site/)
 [![Email](https://img.shields.io/badge/Email-amnac1688@gmail.com-red)](mailto:amnac1688@gmail.com)
 
 ## 🛠️ What I work with
